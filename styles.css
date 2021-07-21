@@ -1,0 +1,55 @@
+.head{
+position: absolute;
+color : white;
+  top: 5%;
+  left: 5%;
+font-family:Garamond;
+}
+.button{
+background-color: #007f8b;
+  border: none;
+  color: white;
+border-radius:8px;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  
+}
+.button1:hover{
+background-color: #4CAF50;
+  color: white;
+
+}
+.button1{
+  position : absolute;
+  right:11%;
+  top:3%;
+  
+}
+.button2{
+  position : absolute;
+  right:3%;
+  top:3%;
+  
+}
+.button2:hover{
+background-color: #4CAF50;
+  color: white;
+
+}
+.para{
+font-size:18px;
+position:absolute;
+right:50%;
+top:50%;
+color:white;
+}
+.mu{
+color:pink;
+font-size:25px;
+
+}
